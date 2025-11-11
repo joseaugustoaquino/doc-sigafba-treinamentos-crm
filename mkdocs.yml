@@ -1,0 +1,40 @@
+site_name: My Docs
+theme: material
+nav:
+  - Home: index.md
+  - Autenticação:
+     - Entrar: routes/autentication/login.md
+     - Recuperar Senha: routes/autentication/forgotten_password.md
+  - Sistema:
+    - Início: routes/settings/home.md
+    - Configuração: routes/settings/settings.md
+#   - Financeiro:
+#       - v2 (/financeiro/v2): rotas/financeiro_v2.md
+#   - Inscrição:
+#       - Inscrição por link (/inscricao/:link/:contract/:environment): rotas/inscricao.md
+#   - Formulário:
+#       - Formulário de pessoa (/formulario/:contract/:environment/:idPerson?/:idPersonForm?): rotas/formulario.md
+#   - Turma:
+#       - Turma (/turma): rotas/turma.md
+#       - Item (/turma/item): rotas/turma_item.md
+#       - Lista (/turma/lista): rotas/turma_lista.md
+#       - Link Lista (/turma/link/lista): rotas/turma_link_lista.md
+#       - Link Registrar (/turma/link/registrar): rotas/turma_link_registrar.md
+#       - Link Indicação (/turma/link/indicacao/:contract/:environment/:idClass/:idUser/:idParticipant?): rotas/turma_link_indicacao.md
+#   - Pessoas:
+#       - Pessoa (/pessoa): rotas/pessoa.md
+#       - Lista (/pessoa/lista): rotas/pessoa_lista.md
+#       - Aniversariantes (/pessoa/aniversariantes): rotas/pessoa_aniversariantes.md
+#       - Registro (/pessoa/registro): rotas/pessoa_registro.md
+#       - Metas (/pessoa/metas): rotas/pessoa_metas.md
+#   - Classes:
+#       - Dashboard (/classes/dashboard): rotas/classes_dashboard.md
+#   - Eventos:
+#       - Eventos (/pessoa/eventos): rotas/pessoa_eventos.md
+#       - Dashboard (/pessoa/eventos/dashboard): rotas/pessoa_eventos_dashboard.md
+#   - Negociações:
+#       - Negociações (/negociacoes): rotas/negociacoes.md
+#       - Funil (/negociacoes/funil): rotas/negociacoes_funil.md
+markdown_extensions:
+  - toc
+  - tables
