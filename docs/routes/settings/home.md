@@ -41,5 +41,5 @@ Ao clicar no botão “Editar” do acesso rápido, estão disponíveis:
 - Erro ao salvar configurações do acesso rápido.
 
 ## Relacionados
+- Início (`/inicio`)
 - Configuração (`/configuracao`)
-- Financeiro v2 (`/financeiro/v2`)

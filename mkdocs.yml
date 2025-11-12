@@ -18,6 +18,7 @@ nav:
     - Funil de Vendas: routes/dashboard/sales_funil.md
     - Dashboard Turmas: routes/dashboard/dashboard_classes.md
     - Dashboard Eventos: routes/dashboard/dashboard_events.md
+  - Financeiro: routes/financial/financial.md
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
