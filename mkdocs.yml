@@ -8,6 +8,12 @@ nav:
   - Sistema:
     - Início: routes/settings/home.md
     - Configuração: routes/settings/settings.md
+  - Turmas:
+    - Links: routes/classes/classes_participants_links.md
+    - Turmas: routes/classes/classes.md
+    - Presença: routes/classes/classes_participants_presence.md
+    - Novo Link: routes/classes/classes_participants_links_new.md
+    - Participantes: routes/classes/classes_participants.md
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:

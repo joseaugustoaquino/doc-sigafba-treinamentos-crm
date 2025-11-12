@@ -16,6 +16,7 @@ Tela para recuperação de acesso via validação de dados pessoais e envio de n
 - Todos os campos devem coincidir com as informações de cadastro; divergências impedem o envio da nova senha.
 - Em sucesso, o sistema gera uma senha temporária e envia por e-mail e WhatsApp (caso o canal esteja configurado).
 - A senha temporária deve ser alterada no primeiro acesso por questões de segurança.
+
 ![Confirmação de Solicitação](../../images/autentication/03.png)
 
 ## Relacionados

@@ -16,11 +16,13 @@ Tela de autenticação para acesso ao sistema.
 ## Ações Secundárias
 - Lembrar-me: mantém as credenciais salvas no dispositivo para facilitar o próximo login.
 - Esqueceu a senha: abre a tela de recuperação ([Recuperar acesso](./forgotten_password.md)); serão solicitados Contrato, Celular (principal), E-mail (principal) e CPF/CNPJ.
+
 ![Opção “Lembrar-me” e “Esqueceu a senha?”](../../images/autentication/01.png)
 
 ## Versionamento do Aplicativo
 - No canto inferior direito é exibida a versão atual do aplicativo.
 - Essa informação é essencial para checar novas correções e facilitar suporte.
+
 ![Rodapé com versionamento do aplicativo](../../images/autentication/02.png)
 
 ## Relacionados
