@@ -1,11 +1,10 @@
-# Entrar (/entrar)
+# Entrar 
 
-## Resumo
-Tela de autenticação para acesso ao sistema.
+Tela de autenticação para acesso ao sistema, também referida como tela de login, é onde as autenticações são realizadas, processos para troca de senha e exibição do versionamento do aplicativo, também são validados os termos e serviços de uso.
 
-## Principais Ações
-- Inserir credenciais (email/usuário e senha).
-- Recuperar senha.
+## Contrato login e senha
+
+**Observação: O contrato, login e senha devem ser fornecidos pelos responsáveis do administrativo do sistema, veja mais em [SIGAFBA Administrativo](/docs/index.md/#sigafba-administrativo)**
 
 ## Campos
 - Contrato: obrigatório. Enviado ao assinar o contrato; identifica sua instância do sistema.

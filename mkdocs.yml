@@ -1,7 +1,7 @@
-site_name: My Docs
+site_name: SIGAFBA Treinamentos CRM
 theme: material
 nav:
-  - Home: index.md
+  - Introdução: index.md
   - Autenticação:
      - Entrar: routes/autentication/login.md
      - Recuperar Senha: routes/autentication/forgotten_password.md
