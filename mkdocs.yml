@@ -1,7 +1,9 @@
-site_name: My Docs
+site_name: SIGAFBA Treinamentos CRM
 theme: material
 nav:
-  - Home: index.md
+  - Introdução: index.md
+  - Financeiro: routes/financial/financial.md
+  - Negociações: routes/negotiations/negotiations.md
   - Autenticação:
      - Entrar: routes/autentication/login.md
      - Recuperar Senha: routes/autentication/forgotten_password.md
@@ -18,7 +20,7 @@ nav:
     - Funil de Vendas: routes/dashboard/sales_funil.md
     - Dashboard Turmas: routes/dashboard/dashboard_classes.md
     - Dashboard Eventos: routes/dashboard/dashboard_events.md
-  - Financeiro: routes/financial/financial.md
+
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
