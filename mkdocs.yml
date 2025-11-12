@@ -9,6 +9,12 @@ nav:
     - Início: routes/settings/home.md
     - Configuração: routes/settings/settings.md
   - Negociações: routes/negotiations/negotiations.md
+  - Pessoas:
+       - Pessoa (/pessoa): rotas/pessoa.md
+       - Lista (/pessoa/lista): rotas/pessoa_lista.md
+       - Aniversariantes (/pessoa/aniversariantes): rotas/pessoa_aniversariantes.md
+       - Registro (/pessoa/registro): rotas/pessoa_registro.md
+       - Metas (/pessoa/metas): rotas/pessoa_metas.md
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
@@ -22,12 +28,6 @@ nav:
 #       - Link Lista (/turma/link/lista): rotas/turma_link_lista.md
 #       - Link Registrar (/turma/link/registrar): rotas/turma_link_registrar.md
 #       - Link Indicação (/turma/link/indicacao/:contract/:environment/:idClass/:idUser/:idParticipant?): rotas/turma_link_indicacao.md
-#   - Pessoas:
-#       - Pessoa (/pessoa): rotas/pessoa.md
-#       - Lista (/pessoa/lista): rotas/pessoa_lista.md
-#       - Aniversariantes (/pessoa/aniversariantes): rotas/pessoa_aniversariantes.md
-#       - Registro (/pessoa/registro): rotas/pessoa_registro.md
-#       - Metas (/pessoa/metas): rotas/pessoa_metas.md
 #   - Classes:
 #       - Dashboard (/classes/dashboard): rotas/classes_dashboard.md
 #   - Eventos:
