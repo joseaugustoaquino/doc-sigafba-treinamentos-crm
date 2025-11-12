@@ -8,6 +8,7 @@ nav:
   - Sistema:
     - Início: routes/settings/home.md
     - Configuração: routes/settings/settings.md
+  - Negociações: routes/negotiations/negotiations.md
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
@@ -32,8 +33,6 @@ nav:
 #   - Eventos:
 #       - Eventos (/pessoa/eventos): rotas/pessoa_eventos.md
 #       - Dashboard (/pessoa/eventos/dashboard): rotas/pessoa_eventos_dashboard.md
-#   - Negociações:
-#       - Negociações (/negociacoes): rotas/negociacoes.md
 #       - Funil (/negociacoes/funil): rotas/negociacoes_funil.md
 markdown_extensions:
   - toc

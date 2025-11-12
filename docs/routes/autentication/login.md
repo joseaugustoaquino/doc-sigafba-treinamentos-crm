@@ -4,7 +4,7 @@ Tela de autenticação para acesso ao sistema, também referida como tela de log
 
 ## Contrato login e senha
 
-**Observação: O contrato, login e senha devem ser fornecidos pelos responsáveis do administrativo do sistema, veja mais em [SIGAFBA Administrativo](/docs/index.md/#sigafba-administrativo)**
+_Observação: O contrato, login e senha devem ser fornecidos pelos responsáveis do administrativo do sistema, veja mais em [SIGAFBA Administrativo](/docs/index.md/#sigafba-administrativo)_
 
 ## Campos
 - Contrato: obrigatório. Enviado ao assinar o contrato; identifica sua instância do sistema.
