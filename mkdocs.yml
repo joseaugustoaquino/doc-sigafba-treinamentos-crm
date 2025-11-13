@@ -34,8 +34,8 @@ nav:
     - Dashboard Turmas: routes/dashboard/dashboard_classes.md
     - Funil de Vendas: routes/dashboard/sales_funil.md
   - Eventos:
-     - Evento: routes/events/events_event.md
-     - Integração Google: routes/events/events_google_integration.md
+     - Calendário: routes/events/events.md
+     - Integração Google: routes/events/events_integration.md
   - Financeiro: routes/financial/financial.md
   - Metas: routes/goals/goals.md
   - Negociações: routes/negotiations/negotiations.md
