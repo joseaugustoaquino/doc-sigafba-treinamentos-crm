@@ -29,17 +29,16 @@ Ao clicar no botão “Editar” do acesso rápido, estão disponíveis:
 
 ![Modal de edição do acesso rápido](../../images/settings/06.png)
 
+## Menu
+- Para ter acesso ao menu aonde possíbilita acesso as telas do sistema, basta clicar no ícone do menu na parte superior esquerda da tela.
+
+![Menu principal](../../images/settings/15.png)
+
 ## Rodapé
 - Exibe links para redes sociais e informações de contato.
 - Facilita suporte e comunicação.
 
 ![Rodapé com redes e contato](../../images/settings/07.png)
-
-## Mensagens e Erros Comuns
-- Falha ao carregar indicadores.
-- Permissões insuficientes.
-- Falha ao carregar vendas do mês.
-- Erro ao salvar configurações do acesso rápido.
 
 ## Relacionados
 - Início (`/inicio`)
