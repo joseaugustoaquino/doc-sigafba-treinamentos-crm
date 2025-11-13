@@ -3,10 +3,6 @@
 ## Resumo
 Central de ajustes do sistema (parâmetros, integrações, perfis).
 
-## Acesso e Perfis
-- Quem acessa: administradores/gestores.
-- Permissões: Definir.
-
 ## Perfil e Credenciais
 - Exibe e permite visualizar/editar: e-mail, celular, CPF, empresas vinculadas, nome e foto de perfil.
 - Essas informações são utilizadas para identificação do usuário em todo o sistema/app.

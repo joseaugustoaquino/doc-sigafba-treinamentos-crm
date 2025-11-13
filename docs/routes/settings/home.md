@@ -22,6 +22,7 @@ Tela inicial com visão geral do sistema e atalhos.
 
 ## Editar Acesso Rápido — Configurações
 Ao clicar no botão “Editar” do acesso rápido, estão disponíveis:
+
 - Acesso rápido: selecionar rotas que serão exibidas na tela de início.
 - Rota inicial: definir qual rota o sistema abre ao entrar.
 - Rota favorita: fixar uma rota no menu principal do sistema.

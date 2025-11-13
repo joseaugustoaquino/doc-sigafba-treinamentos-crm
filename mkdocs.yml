@@ -2,7 +2,7 @@ site_name: SIGAFBA Treinamentos CRM
 theme:
   name: material
   language: pt-BR
-  logo: images/favicon.png
+  logo: images/logo.png
   favicon: images/favicon.png
   palette:
     # Palette toggle for light mode

@@ -26,6 +26,7 @@ Dashboard mais completo do sistema, contemplando toda a parte de vendas da turma
 
 ## Listagem de Participantes
 Cada item da lista apresenta:
+
 - Valor da venda.
 - Turma associada.
 - Tipo de indicação.

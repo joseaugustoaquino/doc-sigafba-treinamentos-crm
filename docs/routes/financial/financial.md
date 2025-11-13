@@ -11,7 +11,7 @@ Módulo financeiro versão 2, com gestão de cobranças, pagamentos e relatório
 - Totais consolidados:
   - Receita (R$): soma dos recebimentos no período.
   - Despesa (R$): soma dos pagamentos/saídas no período.
-  - Saldo geral (R$): receita – despesa.
+  - Saldo geral (R$): receita/despesa.
 - Atualiza conforme filtros de período/status.
 - Destaque visual para fácil leitura dos valores.
 
@@ -28,9 +28,9 @@ Módulo financeiro versão 2, com gestão de cobranças, pagamentos e relatório
 - Visão de notas lançadas e concluídas:
   - Indicadores: total lançadas, total concluídas, pendentes.
 - Listagem:
-  - Número da nota, cliente, competência, valor, status, data.
+    - Número da nota, cliente, competência, valor, status, data.
 - Ações:
-  - Clique na nota para abrir detalhes e baixar PDF para impressão.
+    - Clique na nota para abrir detalhes e baixar PDF para impressão.
 
 ![Acesso rápido configurável](../../images/financial/02.png)
 
