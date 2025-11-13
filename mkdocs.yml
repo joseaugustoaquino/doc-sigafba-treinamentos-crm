@@ -1,25 +1,56 @@
 site_name: SIGAFBA Treinamentos CRM
-theme: material
+theme:
+  name: material
+  language: pt-BR
+  logo: images/favicon.png
+  favicon: images/favicon.png
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+extra_css:
+  - styles.css
+extra_javascript:
+  - scripts.js
+copyright: Copyright© 1999-<span id="copyright-year"></span> SIGAFBA
+extra: 
+  version: 1.0.0
+  generator: false
 nav:
   - Introdução: index.md
-  - Financeiro: routes/financial/financial.md
-  - Negociações: routes/negotiations/negotiations.md
   - Autenticação:
      - Entrar: routes/autentication/login.md
      - Recuperar Senha: routes/autentication/forgotten_password.md
+  - Dashboard:
+    - Dashboard Eventos: routes/dashboard/dashboard_events.md
+    - Dashboard Turmas: routes/dashboard/dashboard_classes.md
+    - Funil de Vendas: routes/dashboard/sales_funil.md
+  - Eventos:
+     - Evento: routes/events/events_event.md
+     - Integração Google: routes/events/events_google_integration.md
+  - Financeiro: routes/financial/financial.md
+  - Metas: routes/goals/goals.md
+  - Negociações: routes/negotiations/negotiations.md
+  - Pessoas:
+     - Pessoa: routes/people/people_person.md
   - Sistema:
-    - Início: routes/settings/home.md
     - Configuração: routes/settings/settings.md
+    - Início: routes/settings/home.md
+  - Tarefas: routes/tasks/tasks.md
   - Turmas:
     - Links: routes/classes/classes_participants_links.md
-    - Turmas: routes/classes/classes.md
-    - Presença: routes/classes/classes_participants_presence.md
     - Novo Link: routes/classes/classes_participants_links_new.md
     - Participantes: routes/classes/classes_participants.md
-  - Dashboard:
-    - Funil de Vendas: routes/dashboard/sales_funil.md
-    - Dashboard Turmas: routes/dashboard/dashboard_classes.md
-    - Dashboard Eventos: routes/dashboard/dashboard_events.md
+    - Presença: routes/classes/classes_participants_presence.md
+    - Turmas: routes/classes/classes.md
 
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md

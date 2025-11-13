@@ -39,6 +39,7 @@ Listagem avançada de participantes com filtro por descrição, seleção múlti
 
 ## Listagem de Participantes
 Cada item exibe:
+
 - Nome/descrição do participante.
 - Informações relevantes (e.g., contato, contrato).
 - Estado visual de seleção (checkbox) para ações em lote.

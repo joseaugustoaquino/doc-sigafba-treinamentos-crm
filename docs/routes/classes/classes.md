@@ -5,15 +5,16 @@ Tela simples para consulta de turmas, com filtros por descrição e status e lis
 
 ## Filtros
 - Descrição: texto livre para buscar pelo nome/descrição da turma.
-- Status: seleção entre:
-  - Em Prospecção
-  - Em Andamento
-  - Concluída
+  - Status seleção entre:
+    - Em Prospecção
+    - Em Andamento
+    - Concluída
 
 ![Filtro por descrição e status](../../images/classes/16.png)
 
 ## Listagem de Turmas
 Cada item (card) exibe:
+
 - Descrição da turma.
 - Data de início.
 - Número de participantes.

@@ -14,12 +14,13 @@ Tela simples de consulta de links, com filtro por descrição, agrupamento por s
 ![Filtro de pesquisa por descrição](../../images/classes/22.png)
 
 ## Agrupamento por Status
-- Os links são exibidos agrupados de acordo com seu status (por exemplo: pendente, enviado, concluído — conforme configuração do sistema).
+- Os links são exibidos agrupados de acordo com seu status (por exemplo: pendente, enviado, concluído).
 
 ![Agrupamento por status](../../images/classes/23.png)
 
 ## Detalhe do Item
 Ao clicar em um link, são apresentados:
+
 - Descrição do link.
 - Participante(s) associado(s).
 - Informações que foram preenchidas pelo participante.
