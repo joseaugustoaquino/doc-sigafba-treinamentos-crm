@@ -49,7 +49,7 @@ Ao abrir o cadastro de informações de uma pessoa, serão exibidas quatro abas:
 
 - [Pessoa](#pessoa)
 - [Eventos](#eventos)
-- [Negociações](#negociações)
+- [Negociações](#negociacao)
 - [Anexos](#anexos)
 
 ### Pessoa
@@ -66,7 +66,7 @@ Exibe os eventos realizados e/ou pendentes para aquela pessoa, com data, assunto
 
 ![Eventos da pessoa](../../images/people/16.png)
 
-### Negociações
+### Negociação
 
 Exibe as negociações já feitas e/ou em andamento com a pessoa.
 

@@ -88,7 +88,7 @@ Permite alterar a ordenação das negociações, exibindo as mais recentes ou ma
 
 ## Dias sem contato
 
-Indicativo visual que mostra quais negociações estão sem [eventos](../../routes/eventos.md) por uma faixa de dias (definida no [Administrativo](../../index.md/#sigafba-administrativo)), utilizando cores verde, amarela e vermelha.
+Indicativo visual que mostra quais negociações estão sem [eventos](../../routes/events/events.md) por uma faixa de dias (definida no [Administrativo](../../index.md/#sigafba-administrativo)), utilizando cores verde, amarela e vermelha.
 
 ![Ícone de status de contato](../../images/negotiations/09.png)
 
@@ -96,7 +96,7 @@ Indicativo visual que mostra quais negociações estão sem [eventos](../../rout
 
 Permite, de maneira rápida:
 
-- Agendar um [evento](../../routes/eventos.md) com a pessoa da negociação;  
+- Agendar um [evento](../../routes/events/events.md) com a pessoa da negociação;  
 - Realizar uma chamada com a negociação;  
 - Abrir o WhatsApp da negociação em uma nova guia.  
 
@@ -115,7 +115,7 @@ Botão que possibilita a inserção de novas negociações no sistema de forma m
 Esta é a tela onde as informações da negociação são inseridas, exibindo também seu status, nome, dados pessoais e de interesse do usuário.  
 A tela é dividida em quatro abas:
 
-- [Negociação](#negociação)  
+- [Negociação](#negociacao)  
 - [Eventos](#eventos)  
 - [Anexos](#anexos)  
 - [Linha do tempo](#linha-do-tempo)  
@@ -130,7 +130,7 @@ Exibe todas as informações referentes à negociação selecionada, trazendo da
 
 ### Eventos
 
-Permite a visualização dos eventos realizados para aquela negociação. (Veja mais sobre em [Eventos](../../routes/eventos.md)).
+Permite a visualização dos eventos realizados para aquela negociação. (Veja mais sobre em [Eventos](../../routes/events/events.md)).
 
 ![Tela de eventos](../../images/negotiations/22.png)
 
