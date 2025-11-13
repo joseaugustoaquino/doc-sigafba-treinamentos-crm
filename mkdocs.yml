@@ -3,18 +3,15 @@ theme: material
 nav:
   - Introdução: index.md
   - Autenticação:
-     - Entrar: routes/autentication/login.md
-     - Recuperar Senha: routes/autentication/forgotten_password.md
+    - Entrar: routes/autentication/login.md
+    - Recuperar Senha: routes/autentication/forgotten_password.md
   - Sistema:
     - Início: routes/settings/home.md
     - Configuração: routes/settings/settings.md
   - Negociações: routes/negotiations/negotiations.md
   - Pessoas:
-       - Pessoa (/pessoa): rotas/pessoa.md
-       - Lista (/pessoa/lista): rotas/pessoa_lista.md
-       - Aniversariantes (/pessoa/aniversariantes): rotas/pessoa_aniversariantes.md
-       - Registro (/pessoa/registro): rotas/pessoa_registro.md
-       - Metas (/pessoa/metas): rotas/pessoa_metas.md
+    - Pessoas: routes/people/people.md
+    - Aniversariantes: routes/people/birthday.md
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
