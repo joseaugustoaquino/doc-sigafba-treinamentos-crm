@@ -40,7 +40,8 @@ nav:
   - Metas: routes/goals/goals.md
   - Negociações: routes/negotiations/negotiations.md
   - Pessoas:
-     - Pessoa: routes/people/people_person.md
+    - Aniversariantes: routes/people/birthday.md
+    - Pessoas: routes/people/people.md
   - Sistema:
     - Configuração: routes/settings/settings.md
     - Início: routes/settings/home.md
