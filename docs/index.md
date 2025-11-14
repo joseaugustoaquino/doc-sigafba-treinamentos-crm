@@ -8,7 +8,7 @@ O conteúdo aqui descrito visa orientar e facilitar o trabalho de todos os usuá
 
 ## Requisitos do sistema
 
-Para acessar o sistema, deve-se possuir um computador com acesso à internet e um navegador, ou para acesso ao aplicativo, deve-se possuir um dispositivo celular _Android_ ou _iOS_ (Não recomendamos a instalação das versões para _MacBook_ e demais computadores _macOS_ disponibilizadas pela própria _Apple_ em sua loja).
+Para acessar o sistema, deve-se possuir um computador com acesso à internet e um navegador, ou para acesso ao aplicativo, deve-se possuir um dispositivo celular _Android_ 14 ou superior ou _iOS_ 16 ou superior (Não recomendamos a instalação das versões para _MacBook_ e demais computadores _macOS_ disponibilizadas pela própria _Apple_ em sua loja).
 
 _Observação: É necessário ter o módulo do **[SIGAFBA Administrativo](#sigafba-administrativo)** para utilizar todos os módulos do sistema de forma integrada._
 
