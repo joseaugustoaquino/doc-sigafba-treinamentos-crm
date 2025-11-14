@@ -27,32 +27,31 @@ extra:
 nav:
   - Introdução: index.md
   - Autenticação:
-     - Entrar: routes/autentication/login.md
-     - Recuperar Senha: routes/autentication/forgotten_password.md
+    - Entrar: routes/autentication/login.md
+    - Recuperar Senha: routes/autentication/forgotten_password.md
+  - Sistema:
+    - Início: routes/settings/home.md
+    - Configuração: routes/settings/settings.md
+  - Pessoas:
+    - Pessoas: routes/people/people.md
+    - Aniversariantes: routes/people/birthday.md
+  - Negociações: routes/negotiations/negotiations.md
+  - Turmas:
+    - Turmas: routes/classes/classes.md
+    - Participantes: routes/classes/classes_participants.md
+    - Links: routes/classes/classes_participants_links.md
+    - Novo Link: routes/classes/classes_participants_links_new.md
+    - Presença: routes/classes/classes_participants_presence.md
+  - Eventos:
+    - Calendário: routes/events/events.md
+    - Integração Google: routes/events/events_integration.md
+  - Financeiro: routes/financial/financial.md
+  - Metas: routes/goals/goals.md
+  - Tarefas: routes/tasks/tasks.md
   - Dashboard:
     - Dashboard Eventos: routes/dashboard/dashboard_events.md
     - Dashboard Turmas: routes/dashboard/dashboard_classes.md
     - Funil de Vendas: routes/dashboard/sales_funil.md
-  - Eventos:
-     - Calendário: routes/events/events.md
-     - Integração Google: routes/events/events_integration.md
-  - Financeiro: routes/financial/financial.md
-  - Metas: routes/goals/goals.md
-  - Negociações: routes/negotiations/negotiations.md
-  - Pessoas:
-    - Aniversariantes: routes/people/birthday.md
-    - Pessoas: routes/people/people.md
-  - Sistema:
-    - Configuração: routes/settings/settings.md
-    - Início: routes/settings/home.md
-  - Tarefas: routes/tasks/tasks.md
-  - Turmas:
-    - Links: routes/classes/classes_participants_links.md
-    - Novo Link: routes/classes/classes_participants_links_new.md
-    - Participantes: routes/classes/classes_participants.md
-    - Presença: routes/classes/classes_participants_presence.md
-    - Turmas: routes/classes/classes.md
-
 #   - Financeiro:
 #       - v2 (/financeiro/v2): rotas/financeiro_v2.md
 #   - Inscrição:
